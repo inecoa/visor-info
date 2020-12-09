@@ -6,4 +6,4 @@ https://www.inecoa.net.ar/visor/
 #### Archivos origen en formato planilla de calculo
 #### PDF explicativos
 #### Jupyter Notebook pasaje formato Planilla de Calculo a Formato JSON
-#### Jupyter Notebook (en Formato IPYNB, HTML) 
+#### Jupyter Notebook (en Formato IPYNB) 
